@@ -262,7 +262,6 @@ if (nexusUrl.isNullOrBlank() || nexusUser.isNullOrBlank() || nexusPassword.isNul
         "NEXUS details are not set. Create a .env file with correct properties: " +
                 "NEXUS_URL, NEXUS_USERNAME, NEXUS_PASSWORD"
     )
-
 }
 
 /*
